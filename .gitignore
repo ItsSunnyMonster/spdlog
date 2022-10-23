@@ -87,3 +87,9 @@ cmake-build-*/
 # macos
 *.DS_store
 *.xcodeproj/
+
+# visual studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
